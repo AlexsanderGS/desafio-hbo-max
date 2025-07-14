@@ -1,3 +1,5 @@
+@import url("./global.css");
+
 main {
     background: url("../images/background-subscription.png") no-repeat;
     background-size: cover;
